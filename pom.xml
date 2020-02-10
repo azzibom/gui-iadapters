@@ -8,7 +8,7 @@
   <artifactId>gui-iadapters</artifactId>
   <version>1.0</version>
 
-  <description>Adapter interfaces for swing and AWT listeners by default methods Java8.</description>
+  <description>Adapter interfaces for Swing and AWT listeners by default methods Java8.</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
