@@ -1,5 +1,5 @@
 # Swing/AWT adapters
-Adapter interfaces for swing and AWT listeners by default methods Java8.
+Adapter interfaces for Swing and AWT listeners by default methods Java8.
 
 ## Compile and packaging
 Using ```Maven``` in project root directory execute ```mvn clean package```.
